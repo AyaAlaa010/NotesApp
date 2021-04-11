@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item      android:title="Delete Note"
+        android:id="@+id/mypop_delete"/>
+    <item      android:title="Edite Note"
+        android:id="@+id/mypop_Edite"/>
+</menu>
